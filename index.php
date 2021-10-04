@@ -26,6 +26,8 @@
                     echo "<h6>Aquí no hay nada que ver</h6>";
                     break;
             }
+
+            echo "<p>Se ha usado la opción $numero</p>.";
         ?>
     </body>
 </html>
